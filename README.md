@@ -18,6 +18,16 @@ This service is developed in .Net and involves the best practices and technologi
 
 You just have to clone the project and install its dependencies with Nuget, once this is done, you will only have to go to the typical appsetting.json of each project with ASP.NET, and set its parameters for the connection string and other topics explained later.
 
+######    Requirements
+
+​		
+
+[.NET Core SDK]: https://www.microsoft.com/net/download	"download now"
+
+
+
+###### 	Execute
+
 ```bash
 mkdir we-notify
 cd we-notify
