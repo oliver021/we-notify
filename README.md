@@ -20,11 +20,7 @@ You just have to clone the project and install its dependencies with Nuget, once
 
 ######    Requirements
 
-​		
-
-[.NET Core SDK]: https://www.microsoft.com/net/download	"download now"
-
-
+​	[.NET Core SDK](https://www.microsoft.com/net/download)
 
 ###### 	Execute
 
